@@ -59,7 +59,7 @@ project-root/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/razorpay-integration.git
+git clone git@github.com:vishalghag/Razor_pay_Integration.git
 
 cd razorpay-integration
 ```
