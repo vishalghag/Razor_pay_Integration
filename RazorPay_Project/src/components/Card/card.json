@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Luxury Ocean Suite",
+    "category": "Hotel",
+    "description": "Ocean-facing suite with king bed and complimentary breakfast.",
+    "price": 4999,
+    "rating": 4.8,
+    "image": "https://picsum.photos/400/300?random=1"
+  },
+  {
+    "id": 2,
+    "title": "Deluxe City View",
+    "category": "Hotel",
+    "description": "Spacious room with panoramic city views.",
+    "price": 3499,
+    "rating": 4.6,
+    "image": "https://picsum.photos/400/300?random=2"
+  },
+  {
+    "id": 3,
+    "title": "Executive Business Room",
+    "category": "Hotel",
+    "description": "Perfect for business travelers with workspace and WiFi.",
+    "price": 4299,
+    "rating": 4.7,
+    "image": "https://picsum.photos/400/300?random=3"
+  },
+  {
+    "id": 4,
+    "title": "Family Paradise Suite",
+    "category": "Resort",
+    "description": "Large family suite with pool access.",
+    "price": 5999,
+    "rating": 4.9,
+    "image": "https://picsum.photos/400/300?random=4"
+  },
+  {
+    "id": 5,
+    "title": "Mountain Escape Cabin",
+    "category": "Resort",
+    "description": "Cozy cabin surrounded by scenic mountain views.",
+    "price": 3899,
+    "rating": 4.5,
+    "image": "https://picsum.photos/400/300?random=5"
+  },
+  {
+    "id": 6,
+    "title": "Premium Pool Villa",
+    "category": "Villa",
+    "description": "Private villa with exclusive swimming pool.",
+    "price": 8999,
+    "rating": 4.9,
+    "image": "https://picsum.photos/400/300?random=6"
+  },
+  {
+    "id": 7,
+    "title": "Beachfront Retreat",
+    "category": "Resort",
+    "description": "Direct beach access with sunset views.",
+    "price": 6999,
+    "rating": 4.8,
+    "image": "https://picsum.photos/400/300?random=7"
+  },
+  {
+    "id": 8,
+    "title": "Modern Studio Room",
+    "category": "Hotel",
+    "description": "Affordable modern room for solo travelers.",
+    "price": 2499,
+    "rating": 4.3,
+    "image": "https://picsum.photos/400/300?random=8"
+  },
+  {
+    "id": 9,
+    "title": "Royal Heritage Suite",
+    "category": "Palace Hotel",
+    "description": "Experience luxury in a heritage property.",
+    "price": 9999,
+    "rating": 5.0,
+    "image": "https://picsum.photos/400/300?random=9"
+  },
+  {
+    "id": 10,
+    "title": "Urban Comfort Room",
+    "category": "Hotel",
+    "description": "Comfortable stay in the heart of the city.",
+    "price": 2999,
+    "rating": 4.4,
+    "image": "https://picsum.photos/400/300?random=10"
+  },
+  {
+    "id": 11,
+    "title": "Skyline Penthouse",
+    "category": "Luxury",
+    "description": "Top-floor penthouse with stunning skyline views.",
+    "price": 12999,
+    "rating": 4.9,
+    "image": "https://picsum.photos/400/300?random=11"
+  },
+  {
+    "id": 12,
+    "title": "Garden View Cottage",
+    "category": "Cottage",
+    "description": "Relaxing cottage surrounded by lush gardens.",
+    "price": 4599,
+    "rating": 4.6,
+    "image": "https://picsum.photos/400/300?random=12"
+  },
+  {
+    "id": 13,
+    "title": "Lakeside Retreat",
+    "category": "Resort",
+    "description": "Peaceful lakeside stay with boating access.",
+    "price": 5499,
+    "rating": 4.7,
+    "image": "https://picsum.photos/400/300?random=13"
+  },
+  {
+    "id": 14,
+    "title": "Budget Traveler Room",
+    "category": "Hotel",
+    "description": "Clean and comfortable room at an affordable price.",
+    "price": 1799,
+    "rating": 4.1,
+    "image": "https://picsum.photos/400/300?random=14"
+  },
+  {
+    "id": 15,
+    "title": "Luxury Spa Suite",
+    "category": "Spa Resort",
+    "description": "Suite with complimentary spa treatments.",
+    "price": 7499,
+    "rating": 4.8,
+    "image": "https://picsum.photos/400/300?random=15"
+  },
+  {
+    "id": 16,
+    "title": "Forest Hideaway",
+    "category": "Eco Resort",
+    "description": "Nature-inspired accommodation in the forest.",
+    "price": 4799,
+    "rating": 4.5,
+    "image": "https://picsum.photos/400/300?random=16"
+  },
+  {
+    "id": 17,
+    "title": "Couple's Romantic Suite",
+    "category": "Hotel",
+    "description": "Designed for couples with private dining options.",
+    "price": 5699,
+    "rating": 4.8,
+    "image": "https://picsum.photos/400/300?random=17"
+  },
+  {
+    "id": 18,
+    "title": "Adventure Camp Lodge",
+    "category": "Lodge",
+    "description": "Perfect stay for adventure enthusiasts.",
+    "price": 3299,
+    "rating": 4.4,
+    "image": "https://picsum.photos/400/300?random=18"
+  },
+  {
+    "id": 19,
+    "title": "Premium River View",
+    "category": "Hotel",
+    "description": "Elegant room overlooking the river.",
+    "price": 6199,
+    "rating": 4.7,
+    "image": "https://picsum.photos/400/300?random=19"
+  },
+  {
+    "id": 20,
+    "title": "Grand Presidential Suite",
+    "category": "Luxury",
+    "description": "Ultimate luxury experience with premium amenities.",
+    "price": 19999,
+    "rating": 5.0,
+    "image": "https://picsum.photos/400/300?random=20"
+  }
+]
